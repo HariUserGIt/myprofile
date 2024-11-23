@@ -1,0 +1,86 @@
+
+  .experience h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .experience h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 20px;
+  }
+  
+  .experience .experience-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-top: 20px;
+  }
+
+  .experience .experience-list h4{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-top: 20px;
+    color: #080808;
+    font-size: large;
+  }
+
+  .experience .experience-item h4 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .experience .experience-item ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-top: 20px;
+  }
+  
+  .experience .experience-item li {
+    margin-bottom: 10px;
+  }
+  
+  .experience .experience-item li strong {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .experience-links {
+    margin-top: 20px;
+  }
+  
+  .experience-links h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .experience-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .experience-links li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .experience-links a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .experience-links a.active {
+    color: #007bff;
+  }
+  
+  .experience-links a:hover {
+    color: #0056b3;
+  }
+  

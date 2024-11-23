@@ -1,0 +1,57 @@
+.education {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .education h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .education .education-section {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .education .education-section h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .education .education-section p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .education .education-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .education .education-list li {
+    margin-bottom: 10px;
+  }
+  
+  .education .education-list li span {
+    font-weight: bold;
+  }
+  
+  .education .education-list li ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .education .education-list li ul li {
+    margin-bottom: 10px;
+  }
+  
